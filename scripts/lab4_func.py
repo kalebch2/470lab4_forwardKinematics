@@ -8,12 +8,12 @@ Use 'expm' for matrix exponential.
 Angles are in radian, distance are in meters.
 """
 
-# For (1): Theta = -45 -45 90 -45 -90 90
+# For (1): Theta = 0 -90 90 0 -90 90
 #	x = .3575
 #	y = .1245
 #	z = .2515
 
-# For (2): Theta = 0 -90 90 0 -90 90
+# For (2): Theta = -45 -45 90 -45 -90 90
 #	x = .4141
 #	y = -.2465
 #	z = .02855
